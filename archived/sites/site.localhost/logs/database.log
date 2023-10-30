@@ -1,0 +1,14 @@
+2023-08-02 03:34:12,446 WARNING database DDL Query made to DB:
+DROP USER IF EXISTS '_b96fdf2d65f5f92b'@'localhost'
+2023-08-02 03:34:12,449 WARNING database DDL Query made to DB:
+DROP DATABASE IF EXISTS `_b96fdf2d65f5f92b`
+2023-08-02 03:34:12,452 WARNING database DDL Query made to DB:
+CREATE USER '_b96fdf2d65f5f92b'@'localhost' IDENTIFIED BY 'cRUudiiF07c9M4t7'
+2023-08-02 03:34:12,455 WARNING database DDL Query made to DB:
+CREATE DATABASE `_b96fdf2d65f5f92b`
+2023-08-02 03:46:41,090 WARNING database DDL Query made to DB:
+DROP DATABASE IF EXISTS `_b96fdf2d65f5f92b`
+2023-08-02 03:46:41,091 WARNING database DDL Query made to DB:
+DROP USER IF EXISTS '_b96fdf2d65f5f92b'@'%'
+2023-08-02 03:46:41,093 WARNING database DDL Query made to DB:
+DROP USER IF EXISTS '_b96fdf2d65f5f92b'@'localhost'

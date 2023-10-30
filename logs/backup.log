@@ -1,0 +1,1776 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230802_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-02 05:30:05.987607
+Config  : ./site.localhost/private/backups/20230802_053003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230802_053003-site_localhost-database.sql.gz         1.2MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230802_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-02 17:30:10.044693
+Config  : ./site.localhost/private/backups/20230802_173003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230802_173003-site_localhost-database.sql.gz         1.2MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230803_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-03 11:30:10.456085
+Config  : ./site.localhost/private/backups/20230803_113003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230803_113003-site_localhost-database.sql.gz         1.2MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230804_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-04 17:30:09.244836
+Config  : ./site.localhost/private/backups/20230804_173003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230804_173003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230805_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-05 17:30:08.514835
+Config  : ./site.localhost/private/backups/20230805_173003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230805_173003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230807_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-07 17:30:10.570661
+Config  : ./site.localhost/private/backups/20230807_173003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230807_173003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230807_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-07 23:30:08.419726
+Config  : ./site.localhost/private/backups/20230807_233003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230807_233003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230808_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-08 11:30:08.784504
+Config  : ./site.localhost/private/backups/20230808_113003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230808_113003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230808_173002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-08 17:30:08.198454
+Config  : ./site.localhost/private/backups/20230808_173002-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230808_173002-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230809_173005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-09 17:30:10.286421
+Config  : ./site.localhost/private/backups/20230809_173005-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230809_173005-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230809_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-09 23:30:08.987625
+Config  : ./site.localhost/private/backups/20230809_233004-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230809_233004-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230810_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-10 11:30:08.417879
+Config  : ./site.localhost/private/backups/20230810_113004-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230810_113004-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230810_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-10 17:30:08.051879
+Config  : ./site.localhost/private/backups/20230810_173004-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230810_173004-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230810_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-10 23:30:08.675359
+Config  : ./site.localhost/private/backups/20230810_233004-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230810_233004-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230811_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-11 05:30:08.242994
+Config  : ./site.localhost/private/backups/20230811_053004-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230811_053004-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230811_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-11 11:30:07.372004
+Config  : ./site.localhost/private/backups/20230811_113004-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230811_113004-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230811_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-11 17:30:07.819888
+Config  : ./site.localhost/private/backups/20230811_173004-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230811_173004-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230811_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-11 23:30:06.879055
+Config  : ./site.localhost/private/backups/20230811_233003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230811_233003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230812_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-12 05:30:07.168898
+Config  : ./site.localhost/private/backups/20230812_053004-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230812_053004-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230812_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-12 11:30:08.062036
+Config  : ./site.localhost/private/backups/20230812_113004-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230812_113004-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230812_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-12 17:30:07.700712
+Config  : ./site.localhost/private/backups/20230812_173004-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230812_173004-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230812_233007-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-12 23:30:14.092215
+Config  : ./site.localhost/private/backups/20230812_233007-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230812_233007-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230813_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-13 05:30:08.994946
+Config  : ./site.localhost/private/backups/20230813_053004-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230813_053004-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230813_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-13 11:30:08.606142
+Config  : ./site.localhost/private/backups/20230813_113004-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230813_113004-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230814_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-14 05:30:07.240589
+Config  : ./site.localhost/private/backups/20230814_053003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230814_053003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230814_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-14 11:30:05.006862
+Config  : ./site.localhost/private/backups/20230814_113003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230814_113003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230814_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-14 17:30:06.473082
+Config  : ./site.localhost/private/backups/20230814_173003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230814_173003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230814_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-14 23:30:10.008549
+Config  : ./site.localhost/private/backups/20230814_233004-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230814_233004-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230815_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-15 05:30:09.401521
+Config  : ./site.localhost/private/backups/20230815_053003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230815_053003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230815_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-15 11:30:09.610964
+Config  : ./site.localhost/private/backups/20230815_113003-site_localhost-site_config_backup.json 158.0B
+Database: ./site.localhost/private/backups/20230815_113003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230815_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-15 17:30:11.170585
+Config  : ./site.localhost/private/backups/20230815_173003-site_localhost-site_config_backup.json 180.0B
+Database: ./site.localhost/private/backups/20230815_173003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230816_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-16 05:30:08.790771
+Config  : ./site.localhost/private/backups/20230816_053003-site_localhost-site_config_backup.json 212.0B
+Database: ./site.localhost/private/backups/20230816_053003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230816_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-16 11:30:07.328598
+Config  : ./site.localhost/private/backups/20230816_113003-site_localhost-site_config_backup.json 212.0B
+Database: ./site.localhost/private/backups/20230816_113003-site_localhost-database.sql.gz         1.3MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230816_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-16 17:30:08.308471
+Config  : ./site.localhost/private/backups/20230816_173003-site_localhost-site_config_backup.json 212.0B
+Database: ./site.localhost/private/backups/20230816_173003-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230816_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-16 23:30:08.594570
+Config  : ./site.localhost/private/backups/20230816_233003-site_localhost-site_config_backup.json 212.0B
+Database: ./site.localhost/private/backups/20230816_233003-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230817_053002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-17 05:30:07.679327
+Config  : ./site.localhost/private/backups/20230817_053002-site_localhost-site_config_backup.json 212.0B
+Database: ./site.localhost/private/backups/20230817_053002-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230817_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-17 11:30:08.514797
+Config  : ./site.localhost/private/backups/20230817_113003-site_localhost-site_config_backup.json 212.0B
+Database: ./site.localhost/private/backups/20230817_113003-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230817_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-17 17:30:08.815394
+Config  : ./site.localhost/private/backups/20230817_173003-site_localhost-site_config_backup.json 212.0B
+Database: ./site.localhost/private/backups/20230817_173003-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230817_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-17 23:30:10.385736
+Config  : ./site.localhost/private/backups/20230817_233004-site_localhost-site_config_backup.json 212.0B
+Database: ./site.localhost/private/backups/20230817_233004-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230818_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-18 05:30:07.730376
+Config  : ./site.localhost/private/backups/20230818_053003-site_localhost-site_config_backup.json 212.0B
+Database: ./site.localhost/private/backups/20230818_053003-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230818_113002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-18 11:30:05.511099
+Config  : ./site.localhost/private/backups/20230818_113002-site_localhost-site_config_backup.json 212.0B
+Database: ./site.localhost/private/backups/20230818_113002-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230818_173002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-18 17:30:08.432505
+Config  : ./site.localhost/private/backups/20230818_173002-site_localhost-site_config_backup.json 212.0B
+Database: ./site.localhost/private/backups/20230818_173002-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230818_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-18 23:30:08.503907
+Config  : ./site.localhost/private/backups/20230818_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230818_233003-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230819_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-19 05:30:09.754116
+Config  : ./site.localhost/private/backups/20230819_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230819_053004-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230819_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-19 11:30:09.151177
+Config  : ./site.localhost/private/backups/20230819_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230819_113003-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230819_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-19 17:30:09.343808
+Config  : ./site.localhost/private/backups/20230819_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230819_173003-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230819_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-19 23:30:09.247079
+Config  : ./site.localhost/private/backups/20230819_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230819_233003-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230820_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-20 05:30:05.560693
+Config  : ./site.localhost/private/backups/20230820_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230820_053003-site_localhost-database.sql.gz         1.4MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230820_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-20 11:30:06.459901
+Config  : ./site.localhost/private/backups/20230820_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230820_113003-site_localhost-database.sql.gz         1.5MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230820_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-20 17:30:05.916281
+Config  : ./site.localhost/private/backups/20230820_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230820_173003-site_localhost-database.sql.gz         1.5MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230820_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-20 23:30:08.075898
+Config  : ./site.localhost/private/backups/20230820_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230820_233003-site_localhost-database.sql.gz         1.5MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230821_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-21 05:30:07.809754
+Config  : ./site.localhost/private/backups/20230821_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230821_053003-site_localhost-database.sql.gz         1.5MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230821_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-21 11:30:07.346271
+Config  : ./site.localhost/private/backups/20230821_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230821_113003-site_localhost-database.sql.gz         1.5MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230821_173010-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-21 17:30:16.653358
+Config  : ./site.localhost/private/backups/20230821_173010-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230821_173010-site_localhost-database.sql.gz         1.5MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230822_173005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-22 17:30:12.706470
+Config  : ./site.localhost/private/backups/20230822_173005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230822_173005-site_localhost-database.sql.gz         1.5MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230823_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-23 17:30:08.292058
+Config  : ./site.localhost/private/backups/20230823_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230823_173004-site_localhost-database.sql.gz         1.5MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230823_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-23 23:30:08.964668
+Config  : ./site.localhost/private/backups/20230823_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230823_233005-site_localhost-database.sql.gz         1.5MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230824_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-24 23:30:09.587541
+Config  : ./site.localhost/private/backups/20230824_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230824_233004-site_localhost-database.sql.gz         1.5MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230825_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-25 05:30:08.536834
+Config  : ./site.localhost/private/backups/20230825_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230825_053003-site_localhost-database.sql.gz         1.5MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230825_113002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-25 11:30:08.088941
+Config  : ./site.localhost/private/backups/20230825_113002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230825_113002-site_localhost-database.sql.gz         1.5MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230825_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-25 17:30:09.048673
+Config  : ./site.localhost/private/backups/20230825_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230825_173003-site_localhost-database.sql.gz         1.5MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230825_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-25 23:30:09.511521
+Config  : ./site.localhost/private/backups/20230825_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230825_233003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230826_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-26 05:30:09.134602
+Config  : ./site.localhost/private/backups/20230826_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230826_053003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230826_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-26 11:30:09.162313
+Config  : ./site.localhost/private/backups/20230826_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230826_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230826_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-26 17:30:10.017724
+Config  : ./site.localhost/private/backups/20230826_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230826_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230826_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-26 23:30:09.941312
+Config  : ./site.localhost/private/backups/20230826_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230826_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230827_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-27 05:30:10.007545
+Config  : ./site.localhost/private/backups/20230827_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230827_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230827_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-27 11:30:08.825276
+Config  : ./site.localhost/private/backups/20230827_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230827_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230827_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-27 17:30:05.879788
+Config  : ./site.localhost/private/backups/20230827_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230827_173003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230827_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-27 23:30:11.048364
+Config  : ./site.localhost/private/backups/20230827_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230827_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230828_173021-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-28 17:30:55.685606
+Config  : ./site.localhost/private/backups/20230828_173021-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230828_173021-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230829_113011-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-29 11:30:27.043298
+Config  : ./site.localhost/private/backups/20230829_113011-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230829_113011-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230829_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-29 23:30:10.380951
+Config  : ./site.localhost/private/backups/20230829_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230829_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230830_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-30 05:30:06.934794
+Config  : ./site.localhost/private/backups/20230830_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230830_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230830_113002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-30 11:30:04.871553
+Config  : ./site.localhost/private/backups/20230830_113002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230830_113002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230830_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-30 17:30:08.947848
+Config  : ./site.localhost/private/backups/20230830_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230830_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230830_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-30 23:30:06.987041
+Config  : ./site.localhost/private/backups/20230830_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230830_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230831_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-31 05:30:06.183183
+Config  : ./site.localhost/private/backups/20230831_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230831_053003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230831_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-31 11:30:07.270286
+Config  : ./site.localhost/private/backups/20230831_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230831_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230831_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-31 17:30:09.840079
+Config  : ./site.localhost/private/backups/20230831_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230831_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230831_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-08-31 23:30:11.227989
+Config  : ./site.localhost/private/backups/20230831_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230831_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230901_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-01 05:30:10.258609
+Config  : ./site.localhost/private/backups/20230901_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230901_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230901_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-01 11:30:10.141868
+Config  : ./site.localhost/private/backups/20230901_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230901_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230901_173007-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-01 17:30:17.046319
+Config  : ./site.localhost/private/backups/20230901_173007-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230901_173007-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230901_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-01 23:30:11.824156
+Config  : ./site.localhost/private/backups/20230901_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230901_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230902_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-02 05:30:09.361185
+Config  : ./site.localhost/private/backups/20230902_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230902_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230902_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-02 11:30:09.146531
+Config  : ./site.localhost/private/backups/20230902_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230902_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230902_173005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-02 17:30:13.262471
+Config  : ./site.localhost/private/backups/20230902_173005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230902_173005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230902_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-02 23:30:10.007183
+Config  : ./site.localhost/private/backups/20230902_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230902_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230903_053002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-03 05:30:04.550811
+Config  : ./site.localhost/private/backups/20230903_053002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230903_053002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230903_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-03 11:30:05.033964
+Config  : ./site.localhost/private/backups/20230903_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230903_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230903_173002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-03 17:30:04.405191
+Config  : ./site.localhost/private/backups/20230903_173002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230903_173002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230903_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-03 23:30:09.937282
+Config  : ./site.localhost/private/backups/20230903_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230903_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230904_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-04 17:30:10.928096
+Config  : ./site.localhost/private/backups/20230904_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230904_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230904_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-04 23:30:11.449516
+Config  : ./site.localhost/private/backups/20230904_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230904_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230905_173005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-05 17:30:10.815502
+Config  : ./site.localhost/private/backups/20230905_173005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230905_173005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230906_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-06 17:30:10.303119
+Config  : ./site.localhost/private/backups/20230906_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230906_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230906_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-06 23:30:10.248963
+Config  : ./site.localhost/private/backups/20230906_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230906_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230907_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-07 17:30:10.498546
+Config  : ./site.localhost/private/backups/20230907_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230907_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230907_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-07 23:30:06.878972
+Config  : ./site.localhost/private/backups/20230907_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230907_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230908_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-08 11:30:08.245983
+Config  : ./site.localhost/private/backups/20230908_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230908_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230908_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-08 17:30:08.392480
+Config  : ./site.localhost/private/backups/20230908_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230908_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230908_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-08 23:30:06.481158
+Config  : ./site.localhost/private/backups/20230908_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230908_233003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230909_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-09 05:30:05.629141
+Config  : ./site.localhost/private/backups/20230909_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230909_053003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230909_113002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-09 11:30:04.571347
+Config  : ./site.localhost/private/backups/20230909_113002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230909_113002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230909_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-09 17:30:07.648101
+Config  : ./site.localhost/private/backups/20230909_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230909_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230909_233002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-09 23:30:04.592828
+Config  : ./site.localhost/private/backups/20230909_233002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230909_233002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230910_053002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-10 05:30:04.849954
+Config  : ./site.localhost/private/backups/20230910_053002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230910_053002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230910_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-10 11:30:05.462731
+Config  : ./site.localhost/private/backups/20230910_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230910_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230910_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-10 17:30:08.150675
+Config  : ./site.localhost/private/backups/20230910_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230910_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230910_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-10 23:30:09.384235
+Config  : ./site.localhost/private/backups/20230910_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230910_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230911_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-11 05:30:05.617568
+Config  : ./site.localhost/private/backups/20230911_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230911_053003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230911_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-11 11:30:06.052030
+Config  : ./site.localhost/private/backups/20230911_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230911_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230911_173002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-11 17:30:04.821078
+Config  : ./site.localhost/private/backups/20230911_173002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230911_173002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230911_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-11 23:30:10.588739
+Config  : ./site.localhost/private/backups/20230911_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230911_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230912_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-12 05:30:08.894951
+Config  : ./site.localhost/private/backups/20230912_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230912_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230912_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-12 11:30:06.787100
+Config  : ./site.localhost/private/backups/20230912_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230912_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230912_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-12 17:30:05.427118
+Config  : ./site.localhost/private/backups/20230912_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230912_173003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230912_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-12 23:30:11.733133
+Config  : ./site.localhost/private/backups/20230912_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230912_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230913_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-13 05:30:09.615543
+Config  : ./site.localhost/private/backups/20230913_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230913_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230913_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-13 11:30:05.864843
+Config  : ./site.localhost/private/backups/20230913_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230913_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230913_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-13 17:30:10.013206
+Config  : ./site.localhost/private/backups/20230913_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230913_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230913_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-13 23:30:09.200158
+Config  : ./site.localhost/private/backups/20230913_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230913_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230914_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-14 05:30:07.395806
+Config  : ./site.localhost/private/backups/20230914_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230914_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230914_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-14 11:30:05.734982
+Config  : ./site.localhost/private/backups/20230914_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230914_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230914_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-14 17:30:09.278971
+Config  : ./site.localhost/private/backups/20230914_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230914_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230914_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-14 23:30:08.739080
+Config  : ./site.localhost/private/backups/20230914_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230914_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230915_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-15 05:30:08.956306
+Config  : ./site.localhost/private/backups/20230915_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230915_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230915_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-15 11:30:06.180961
+Config  : ./site.localhost/private/backups/20230915_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230915_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230915_173005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-15 17:30:10.595494
+Config  : ./site.localhost/private/backups/20230915_173005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230915_173005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230915_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-15 23:30:08.424691
+Config  : ./site.localhost/private/backups/20230915_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230915_233003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230916_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-16 17:30:07.482395
+Config  : ./site.localhost/private/backups/20230916_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230916_173003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230916_233018-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-16 23:30:24.134033
+Config  : ./site.localhost/private/backups/20230916_233018-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230916_233018-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230917_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-17 05:30:06.814871
+Config  : ./site.localhost/private/backups/20230917_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230917_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230917_113006-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-17 11:30:08.721080
+Config  : ./site.localhost/private/backups/20230917_113006-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230917_113006-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230917_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-17 17:30:06.880796
+Config  : ./site.localhost/private/backups/20230917_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230917_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230917_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-17 23:30:06.631540
+Config  : ./site.localhost/private/backups/20230917_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230917_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230918_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-18 05:30:06.989557
+Config  : ./site.localhost/private/backups/20230918_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230918_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230918_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-18 11:30:07.103064
+Config  : ./site.localhost/private/backups/20230918_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230918_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230918_173006-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-18 17:30:11.659422
+Config  : ./site.localhost/private/backups/20230918_173006-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230918_173006-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230919_053005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-19 05:30:07.691758
+Config  : ./site.localhost/private/backups/20230919_053005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230919_053005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230919_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-19 11:30:06.688836
+Config  : ./site.localhost/private/backups/20230919_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230919_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230919_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-19 17:30:10.170184
+Config  : ./site.localhost/private/backups/20230919_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230919_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230919_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-19 23:30:10.606717
+Config  : ./site.localhost/private/backups/20230919_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230919_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+Backup failed for Site site.localhost. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 718, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 532, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 565, in new_backup
+    delete_temp_backups()
+  File "apps/frappe/frappe/utils/backups.py", line 599, in delete_temp_backups
+    os.remove(this_file_path)
+FileNotFoundError: [Errno 2] No such file or directory: './site.localhost/private/backups/20230919_053005-site_localhost-site_config_backup.json'
+
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230920_153534-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-20 15:35:42.049732
+Config  : ./site.localhost/private/backups/20230920_153534-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230920_153534-site_localhost-database.sql.gz         3.2MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230920_153534-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-20 15:35:42.048879
+Config  : ./site.localhost/private/backups/20230920_153534-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230920_153534-site_localhost-database.sql.gz         3.2MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230920_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-20 17:30:11.064953
+Config  : ./site.localhost/private/backups/20230920_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230920_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230920_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-20 23:30:07.349374
+Config  : ./site.localhost/private/backups/20230920_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230920_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230921_053005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-21 05:30:08.006276
+Config  : ./site.localhost/private/backups/20230921_053005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230921_053005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230921_113005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-21 11:30:07.810347
+Config  : ./site.localhost/private/backups/20230921_113005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230921_113005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230921_173005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-21 17:30:07.270797
+Config  : ./site.localhost/private/backups/20230921_173005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230921_173005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230921_233006-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-21 23:30:12.018362
+Config  : ./site.localhost/private/backups/20230921_233006-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230921_233006-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230922_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-22 05:30:07.615258
+Config  : ./site.localhost/private/backups/20230922_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230922_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230922_113006-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-22 11:30:14.509432
+Config  : ./site.localhost/private/backups/20230922_113006-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230922_113006-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230922_173005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-22 17:30:11.995263
+Config  : ./site.localhost/private/backups/20230922_173005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230922_173005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230922_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-22 23:30:11.601791
+Config  : ./site.localhost/private/backups/20230922_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230922_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230923_053005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-23 05:30:08.131249
+Config  : ./site.localhost/private/backups/20230923_053005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230923_053005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230923_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-23 11:30:06.692431
+Config  : ./site.localhost/private/backups/20230923_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230923_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230923_173005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-23 17:30:10.942519
+Config  : ./site.localhost/private/backups/20230923_173005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230923_173005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230923_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-23 23:30:07.899312
+Config  : ./site.localhost/private/backups/20230923_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230923_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230924_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-24 05:30:06.980077
+Config  : ./site.localhost/private/backups/20230924_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230924_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230924_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-24 11:30:06.168353
+Config  : ./site.localhost/private/backups/20230924_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230924_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230924_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-24 17:30:06.849546
+Config  : ./site.localhost/private/backups/20230924_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230924_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230924_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-24 23:30:06.267622
+Config  : ./site.localhost/private/backups/20230924_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230924_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230925_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-25 05:30:10.378583
+Config  : ./site.localhost/private/backups/20230925_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230925_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230925_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-25 11:30:07.122930
+Config  : ./site.localhost/private/backups/20230925_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230925_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230925_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-25 17:30:06.105113
+Config  : ./site.localhost/private/backups/20230925_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230925_173003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230925_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-25 23:30:09.021003
+Config  : ./site.localhost/private/backups/20230925_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230925_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230926_142917-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-26 14:29:23.374877
+Config  : ./site.localhost/private/backups/20230926_142917-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230926_142917-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230926_142918-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-26 14:29:23.372776
+Config  : ./site.localhost/private/backups/20230926_142918-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230926_142918-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230926_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-26 17:30:09.511395
+Config  : ./site.localhost/private/backups/20230926_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230926_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230926_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-26 23:30:10.267030
+Config  : ./site.localhost/private/backups/20230926_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230926_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230927_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-27 05:30:06.811048
+Config  : ./site.localhost/private/backups/20230927_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230927_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230927_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-27 11:30:05.461674
+Config  : ./site.localhost/private/backups/20230927_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230927_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230927_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-27 17:30:12.812437
+Config  : ./site.localhost/private/backups/20230927_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230927_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230927_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-27 23:30:10.420061
+Config  : ./site.localhost/private/backups/20230927_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230927_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230928_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-28 05:30:08.839044
+Config  : ./site.localhost/private/backups/20230928_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230928_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230928_113002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-28 11:30:04.275221
+Config  : ./site.localhost/private/backups/20230928_113002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230928_113002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230928_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-28 17:30:08.396200
+Config  : ./site.localhost/private/backups/20230928_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230928_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230928_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-28 23:30:06.101350
+Config  : ./site.localhost/private/backups/20230928_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230928_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230929_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-29 05:30:07.181382
+Config  : ./site.localhost/private/backups/20230929_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230929_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230929_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-29 11:30:05.530209
+Config  : ./site.localhost/private/backups/20230929_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230929_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230929_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-29 17:30:05.141335
+Config  : ./site.localhost/private/backups/20230929_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230929_173003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230929_233002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-29 23:30:04.991525
+Config  : ./site.localhost/private/backups/20230929_233002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230929_233002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230930_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-30 05:30:06.347746
+Config  : ./site.localhost/private/backups/20230930_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230930_053003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230930_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-30 11:30:05.504961
+Config  : ./site.localhost/private/backups/20230930_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230930_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230930_173002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-30 17:30:04.988249
+Config  : ./site.localhost/private/backups/20230930_173002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230930_173002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20230930_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-09-30 23:30:07.597056
+Config  : ./site.localhost/private/backups/20230930_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20230930_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231001_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-01 17:30:09.264926
+Config  : ./site.localhost/private/backups/20231001_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231001_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231001_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-01 23:30:08.580625
+Config  : ./site.localhost/private/backups/20231001_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231001_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231002_053005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-02 05:30:09.082605
+Config  : ./site.localhost/private/backups/20231002_053005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231002_053005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231002_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-02 11:30:06.656721
+Config  : ./site.localhost/private/backups/20231002_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231002_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231002_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-02 17:30:10.922263
+Config  : ./site.localhost/private/backups/20231002_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231002_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231002_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-02 23:30:09.644047
+Config  : ./site.localhost/private/backups/20231002_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231002_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231003_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-03 05:30:04.950330
+Config  : ./site.localhost/private/backups/20231003_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231003_053003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231003_113002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-03 11:30:04.885448
+Config  : ./site.localhost/private/backups/20231003_113002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231003_113002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231003_173005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-03 17:30:11.999908
+Config  : ./site.localhost/private/backups/20231003_173005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231003_173005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231003_233006-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-03 23:30:11.843275
+Config  : ./site.localhost/private/backups/20231003_233006-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231003_233006-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231004_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-04 17:30:09.239541
+Config  : ./site.localhost/private/backups/20231004_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231004_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231004_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-04 23:30:09.658795
+Config  : ./site.localhost/private/backups/20231004_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231004_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231005_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-05 05:30:09.331899
+Config  : ./site.localhost/private/backups/20231005_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231005_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231005_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-05 11:30:06.263457
+Config  : ./site.localhost/private/backups/20231005_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231005_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231005_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-05 17:30:08.090563
+Config  : ./site.localhost/private/backups/20231005_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231005_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231006_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-06 05:30:08.670452
+Config  : ./site.localhost/private/backups/20231006_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231006_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231006_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-06 11:30:05.983694
+Config  : ./site.localhost/private/backups/20231006_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231006_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231006_173002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-06 17:30:04.479343
+Config  : ./site.localhost/private/backups/20231006_173002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231006_173002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231006_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-06 23:30:05.811556
+Config  : ./site.localhost/private/backups/20231006_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231006_233003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231007_053002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-07 05:30:04.350129
+Config  : ./site.localhost/private/backups/20231007_053002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231007_053002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231007_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-07 11:30:05.084361
+Config  : ./site.localhost/private/backups/20231007_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231007_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231007_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-07 17:30:09.671059
+Config  : ./site.localhost/private/backups/20231007_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231007_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231007_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-07 23:30:06.102876
+Config  : ./site.localhost/private/backups/20231007_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231007_233003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231008_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-08 05:30:05.795985
+Config  : ./site.localhost/private/backups/20231008_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231008_053003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231008_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-08 11:30:05.137280
+Config  : ./site.localhost/private/backups/20231008_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231008_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231008_173002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-08 17:30:04.919792
+Config  : ./site.localhost/private/backups/20231008_173002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231008_173002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231008_233002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-08 23:30:04.533372
+Config  : ./site.localhost/private/backups/20231008_233002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231008_233002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231009_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-09 05:30:05.419911
+Config  : ./site.localhost/private/backups/20231009_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231009_053003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231009_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-09 11:30:05.399365
+Config  : ./site.localhost/private/backups/20231009_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231009_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231009_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-09 17:30:09.142198
+Config  : ./site.localhost/private/backups/20231009_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231009_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231009_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-09 23:30:10.458786
+Config  : ./site.localhost/private/backups/20231009_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231009_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231010_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-10 05:30:08.349954
+Config  : ./site.localhost/private/backups/20231010_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231010_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231010_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-10 11:30:07.427454
+Config  : ./site.localhost/private/backups/20231010_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231010_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231010_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-10 17:30:09.984861
+Config  : ./site.localhost/private/backups/20231010_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231010_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231010_233016-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-10 23:30:21.048558
+Config  : ./site.localhost/private/backups/20231010_233016-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231010_233016-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231011_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-11 17:30:08.576788
+Config  : ./site.localhost/private/backups/20231011_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231011_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231011_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-11 23:30:08.350332
+Config  : ./site.localhost/private/backups/20231011_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231011_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231012_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-12 05:30:08.650395
+Config  : ./site.localhost/private/backups/20231012_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231012_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231012_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-12 11:30:05.337192
+Config  : ./site.localhost/private/backups/20231012_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231012_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231012_173002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-12 17:30:04.677800
+Config  : ./site.localhost/private/backups/20231012_173002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231012_173002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231012_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-12 23:30:05.296896
+Config  : ./site.localhost/private/backups/20231012_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231012_233003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231013_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-13 05:30:08.955718
+Config  : ./site.localhost/private/backups/20231013_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231013_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231013_113002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-13 11:30:04.705788
+Config  : ./site.localhost/private/backups/20231013_113002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231013_113002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231013_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-13 17:30:11.419987
+Config  : ./site.localhost/private/backups/20231013_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231013_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231013_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-13 23:30:08.874433
+Config  : ./site.localhost/private/backups/20231013_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231013_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231014_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-14 05:30:09.295667
+Config  : ./site.localhost/private/backups/20231014_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231014_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231014_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-14 11:30:07.042506
+Config  : ./site.localhost/private/backups/20231014_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231014_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231014_173005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-14 17:30:13.724522
+Config  : ./site.localhost/private/backups/20231014_173005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231014_173005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231014_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-14 23:30:10.746636
+Config  : ./site.localhost/private/backups/20231014_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231014_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231015_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-15 05:30:09.468384
+Config  : ./site.localhost/private/backups/20231015_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231015_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231015_113005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-15 11:30:09.056022
+Config  : ./site.localhost/private/backups/20231015_113005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231015_113005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231015_173006-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-15 17:30:13.246874
+Config  : ./site.localhost/private/backups/20231015_173006-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231015_173006-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231015_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-15 23:30:10.891949
+Config  : ./site.localhost/private/backups/20231015_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231015_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231016_053009-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-16 05:30:16.252880
+Config  : ./site.localhost/private/backups/20231016_053009-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231016_053009-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231016_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-16 11:30:06.513839
+Config  : ./site.localhost/private/backups/20231016_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231016_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231016_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-16 17:30:06.793133
+Config  : ./site.localhost/private/backups/20231016_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231016_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231017_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-17 17:30:06.787471
+Config  : ./site.localhost/private/backups/20231017_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231017_173003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231017_233012-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-17 23:30:17.088860
+Config  : ./site.localhost/private/backups/20231017_233012-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231017_233012-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231018_053005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-18 05:30:10.734575
+Config  : ./site.localhost/private/backups/20231018_053005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231018_053005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231018_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-18 11:30:06.626257
+Config  : ./site.localhost/private/backups/20231018_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231018_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231018_173005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-18 17:30:11.212509
+Config  : ./site.localhost/private/backups/20231018_173005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231018_173005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231018_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-18 23:30:09.283536
+Config  : ./site.localhost/private/backups/20231018_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231018_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231019_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-19 05:30:09.103227
+Config  : ./site.localhost/private/backups/20231019_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231019_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231019_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-19 11:30:07.294629
+Config  : ./site.localhost/private/backups/20231019_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231019_113004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231019_173005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-19 17:30:10.138727
+Config  : ./site.localhost/private/backups/20231019_173005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231019_173005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231019_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-19 23:30:06.065323
+Config  : ./site.localhost/private/backups/20231019_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231019_233003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231020_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-20 05:30:05.200897
+Config  : ./site.localhost/private/backups/20231020_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231020_053003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231020_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-20 11:30:05.770244
+Config  : ./site.localhost/private/backups/20231020_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231020_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231020_173015-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-20 17:30:22.457971
+Config  : ./site.localhost/private/backups/20231020_173015-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231020_173015-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231020_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-20 23:30:09.013459
+Config  : ./site.localhost/private/backups/20231020_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231020_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231021_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-21 05:30:09.218820
+Config  : ./site.localhost/private/backups/20231021_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231021_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231021_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-21 11:30:06.397342
+Config  : ./site.localhost/private/backups/20231021_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231021_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231021_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-21 17:30:05.373431
+Config  : ./site.localhost/private/backups/20231021_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231021_173003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231021_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-21 23:30:05.285411
+Config  : ./site.localhost/private/backups/20231021_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231021_233003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231022_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-22 05:30:05.276314
+Config  : ./site.localhost/private/backups/20231022_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231022_053003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231022_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-22 11:30:05.315956
+Config  : ./site.localhost/private/backups/20231022_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231022_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231022_173009-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-22 17:30:14.724508
+Config  : ./site.localhost/private/backups/20231022_173009-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231022_173009-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231022_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-22 23:30:09.852223
+Config  : ./site.localhost/private/backups/20231022_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231022_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231023_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-23 05:30:09.099507
+Config  : ./site.localhost/private/backups/20231023_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231023_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231023_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-23 11:30:05.844456
+Config  : ./site.localhost/private/backups/20231023_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231023_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231023_173002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-23 17:30:04.711040
+Config  : ./site.localhost/private/backups/20231023_173002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231023_173002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231023_233002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-23 23:30:04.278331
+Config  : ./site.localhost/private/backups/20231023_233002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231023_233002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231024_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-24 05:30:05.759336
+Config  : ./site.localhost/private/backups/20231024_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231024_053003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231024_113002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-24 11:30:04.450533
+Config  : ./site.localhost/private/backups/20231024_113002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231024_113002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231024_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-24 17:30:05.260706
+Config  : ./site.localhost/private/backups/20231024_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231024_173003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231024_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-24 23:30:06.675255
+Config  : ./site.localhost/private/backups/20231024_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231024_233004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231025_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-25 05:30:05.832375
+Config  : ./site.localhost/private/backups/20231025_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231025_053003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231025_113002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-25 11:30:05.026772
+Config  : ./site.localhost/private/backups/20231025_113002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231025_113002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231025_173004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-25 17:30:10.225394
+Config  : ./site.localhost/private/backups/20231025_173004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231025_173004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231025_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-25 23:30:08.934789
+Config  : ./site.localhost/private/backups/20231025_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231025_233005-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231026_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-26 17:30:10.257908
+Config  : ./site.localhost/private/backups/20231026_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231026_173003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231026_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-26 23:30:08.354803
+Config  : ./site.localhost/private/backups/20231026_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231026_233003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231027_053002-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-27 05:30:05.953717
+Config  : ./site.localhost/private/backups/20231027_053002-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231027_053002-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231027_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-27 11:30:06.033093
+Config  : ./site.localhost/private/backups/20231027_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231027_113003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231027_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-27 17:30:06.207737
+Config  : ./site.localhost/private/backups/20231027_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231027_173003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231027_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-27 23:30:06.180410
+Config  : ./site.localhost/private/backups/20231027_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231027_233003-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231028_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-28 05:30:07.023388
+Config  : ./site.localhost/private/backups/20231028_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231028_053004-site_localhost-database.sql.gz         1.6MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231028_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-28 11:30:05.386567
+Config  : ./site.localhost/private/backups/20231028_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231028_113003-site_localhost-database.sql.gz         1.7MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231028_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-28 17:30:06.622167
+Config  : ./site.localhost/private/backups/20231028_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231028_173003-site_localhost-database.sql.gz         1.7MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231028_233004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-28 23:30:08.168955
+Config  : ./site.localhost/private/backups/20231028_233004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231028_233004-site_localhost-database.sql.gz         1.7MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231029_053003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-29 05:30:06.580958
+Config  : ./site.localhost/private/backups/20231029_053003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231029_053003-site_localhost-database.sql.gz         1.7MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231029_113003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-29 11:30:06.021203
+Config  : ./site.localhost/private/backups/20231029_113003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231029_113003-site_localhost-database.sql.gz         1.7MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231029_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-29 17:30:05.877665
+Config  : ./site.localhost/private/backups/20231029_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231029_173003-site_localhost-database.sql.gz         1.7MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231029_233005-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-29 23:30:08.259100
+Config  : ./site.localhost/private/backups/20231029_233005-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231029_233005-site_localhost-database.sql.gz         1.7MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231030_053004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-30 05:30:06.578364
+Config  : ./site.localhost/private/backups/20231030_053004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231030_053004-site_localhost-database.sql.gz         1.7MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231030_113004-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-30 11:30:07.968696
+Config  : ./site.localhost/private/backups/20231030_113004-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231030_113004-site_localhost-database.sql.gz         1.7MiB
+Backup for Site site.localhost has been successfully completed

@@ -1,0 +1,61 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "14.43.0"
+    },
+    "payments": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "7a37e99dbcb86dbdea783b0d7426242b13440d1d",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    },
+    "erpnext": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "710ec1808604c9288519c2d858aa831bf8117ec8",
+            "branch": "version-14"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "14.33.0"
+    },
+    "hrms": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "37b095028b572acfdde3d2e92403e1777e1f4bc7",
+            "branch": "version-14"
+        },
+        "required": [],
+        "idx": 4,
+        "version": "14.8.0"
+    },
+    "library_management": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "b28ae6faeb88073389509610d5a5182b3321fb9b",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 5,
+        "version": "0.0.1"
+    },
+    "medical_billing": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "426609f9efafb0fde1688bc9095c00d5fcdcef24",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 6,
+        "version": "0.0.1"
+    }
+}

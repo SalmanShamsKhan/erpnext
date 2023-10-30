@@ -1,0 +1,6 @@
+frappe
+erpnext
+medical_billing
+payments
+hrms
+library_management

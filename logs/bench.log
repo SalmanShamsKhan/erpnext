@@ -1,0 +1,456 @@
+2023-08-02 03:29:34,885 DEBUG cd frappe-bench && python3 -m venv env
+2023-08-02 03:29:39,067 DEBUG cd frappe-bench && /home/fuser/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2023-08-02 03:29:43,248 DEBUG cd frappe-bench && /home/fuser/frappe-bench/env/bin/python -m pip install --quiet wheel
+2023-08-02 03:29:46,938 LOG Getting frappe
+2023-08-02 03:29:46,938 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-14 --depth 1 --origin upstream
+2023-08-02 03:29:51,847 LOG Installing frappe
+2023-08-02 03:29:51,848 DEBUG cd /home/fuser/frappe-bench && /home/fuser/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/fuser/frappe-bench/apps/frappe 
+2023-08-02 03:31:47,883 DEBUG cd /home/fuser/frappe-bench/apps/frappe && yarn install
+2023-08-02 03:32:37,432 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-08-02 03:32:37,438 DEBUG cd frappe-bench && bench build
+2023-08-02 03:32:37,615 INFO /usr/local/bin/bench build
+2023-08-02 03:33:04,261 LOG setting up backups
+2023-08-02 03:33:04,348 LOG backups were set up
+2023-08-02 03:33:04,350 INFO Bench frappe-bench initialized
+2023-08-02 03:34:03,270 INFO /usr/local/bin/bench new-site site.localhost
+2023-08-02 03:36:35,968 INFO /usr/local/bin/bench new-site site.localhost
+2023-08-02 03:36:57,348 INFO /usr/local/bin/bench get-app payments
+2023-08-02 03:36:58,013 LOG Getting payments
+2023-08-02 03:36:58,013 DEBUG cd ./apps && git clone https://github.com/frappe/payments.git  --depth 1 --origin upstream
+2023-08-02 03:36:59,384 LOG Installing payments
+2023-08-02 03:36:59,568 DEBUG cd /home/fuser/frappe-bench && /home/fuser/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/fuser/frappe-bench/apps/payments 
+2023-08-02 03:37:06,464 DEBUG bench build --app payments
+2023-08-02 03:37:06,595 INFO /usr/local/bin/bench build --app payments
+2023-08-02 03:37:11,951 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-08-02 03:37:38,144 INFO /usr/local/bin/bench get-app --branch version-14 erpnext
+2023-08-02 03:37:38,766 LOG Getting erpnext
+2023-08-02 03:37:38,766 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext.git --branch version-14 --depth 1 --origin upstream
+2023-08-02 03:37:43,763 LOG Installing erpnext
+2023-08-02 03:37:43,977 DEBUG cd /home/fuser/frappe-bench && /home/fuser/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/fuser/frappe-bench/apps/erpnext 
+2023-08-02 03:38:34,810 DEBUG cd /home/fuser/frappe-bench/apps/erpnext && yarn install
+2023-08-02 03:38:39,014 DEBUG bench build --app erpnext
+2023-08-02 03:38:39,139 INFO /usr/local/bin/bench build --app erpnext
+2023-08-02 03:38:46,538 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-08-02 03:39:15,204 INFO /usr/local/bin/bench get-app hrms --branch version-14
+2023-08-02 03:39:15,835 LOG Getting hrms
+2023-08-02 03:39:15,835 DEBUG cd ./apps && git clone https://github.com/frappe/hrms.git --branch version-14 --depth 1 --origin upstream
+2023-08-02 03:39:17,679 LOG Installing hrms
+2023-08-02 03:39:17,942 DEBUG cd /home/fuser/frappe-bench && /home/fuser/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/fuser/frappe-bench/apps/hrms 
+2023-08-02 03:39:21,536 DEBUG bench build --app hrms
+2023-08-02 03:39:21,662 INFO /usr/local/bin/bench build --app hrms
+2023-08-02 03:39:27,252 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-08-02 03:40:02,181 INFO /usr/local/bin/bench --site site.localhost install-app erpnext
+2023-08-02 03:41:15,086 INFO /usr/local/bin/bench --site site.localhost drop
+2023-08-02 03:41:15,090 WARNING /usr/local/bin/bench --site site.localhost drop executed with exit code 2
+2023-08-02 03:41:15,798 INFO /usr/local/bin/bench new-site site.localhost
+2023-08-02 03:43:16,122 INFO /usr/local/bin/bench –site site.localhost reinstall
+2023-08-02 03:45:18,991 INFO /usr/local/bin/bench ––site site.localhost reinstall
+2023-08-02 03:45:49,767 INFO /usr/local/bin/bench drop-site site.localhost
+2023-08-02 03:46:26,322 INFO /usr/local/bin/bench drop-site site.localhost --force
+2023-08-02 03:47:12,332 INFO /usr/local/bin/bench new-site site1.localhost
+2023-08-02 03:48:34,616 INFO /usr/local/bin/bench new-site site1.localhost
+2023-08-02 03:48:52,281 INFO /usr/local/bin/bench drop-site site1.localhost --force
+2023-08-02 03:49:10,914 INFO /usr/local/bin/bench new-site site2.localhost
+2023-08-02 03:53:18,854 INFO /usr/local/bin/bench drop-site site2.localhost --force
+2023-08-02 03:53:39,140 INFO /usr/local/bin/bench drop-site site2.localhost --force
+2023-08-02 03:54:01,572 INFO /usr/local/bin/bench new-site site.localhost
+2023-08-02 03:57:06,513 INFO /usr/local/bin/bench --site site.localhost install-app erpnext
+2023-08-02 03:59:02,234 INFO /usr/local/bin/bench --site site.localhost install-app hrms
+2023-08-02 04:02:30,154 INFO /usr/local/bin/bench --site site.localhost uninstall-app hrms
+2023-08-02 04:03:06,290 INFO /usr/local/bin/bench remove-app hrms
+2023-08-02 04:03:06,431 INFO /usr/local/bin/bench --site all list-apps --format json
+2023-08-02 04:03:07,436 WARNING /usr/local/bin/bench remove-app hrms executed with exit code 1
+2023-08-02 04:03:32,557 INFO /usr/local/bin/bench --site site.localhost uninstall-app hrms
+2023-08-02 04:15:24,501 INFO /usr/local/bin/bench use site.localhost
+2023-08-02 04:15:29,597 INFO /usr/local/bin/bench start
+2023-08-02 04:15:30,094 INFO /usr/local/bin/bench worker
+2023-08-02 04:15:30,105 INFO /usr/local/bin/bench schedule
+2023-08-02 04:15:30,128 INFO /usr/local/bin/bench watch
+2023-08-02 04:15:30,182 INFO /usr/local/bin/bench serve --port 8000
+2023-08-02 04:17:02,575 INFO /usr/local/bin/bench start
+2023-08-02 04:17:03,118 INFO /usr/local/bin/bench watch
+2023-08-02 04:17:03,126 INFO /usr/local/bin/bench worker
+2023-08-02 04:17:03,156 INFO /usr/local/bin/bench schedule
+2023-08-02 04:17:03,166 INFO /usr/local/bin/bench serve --port 8000
+2023-08-02 06:00:02,053 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-02 18:00:01,891 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-03 04:14:53,467 INFO /usr/local/bin/bench start
+2023-08-03 04:14:54,018 INFO /usr/local/bin/bench serve --port 8000
+2023-08-03 04:14:54,025 INFO /usr/local/bin/bench watch
+2023-08-03 04:14:54,048 INFO /usr/local/bin/bench worker
+2023-08-03 04:14:54,050 INFO /usr/local/bin/bench schedule
+2023-08-03 12:00:01,713 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-04 18:00:01,656 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-05 18:00:01,911 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-07 18:00:02,098 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-08 00:00:01,831 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-08 12:00:02,325 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-08 18:00:01,584 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-09 18:00:02,469 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-10 00:00:02,385 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-10 12:00:02,019 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-10 18:00:01,636 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-11 00:00:02,099 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-11 06:00:02,040 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-11 12:00:02,085 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-11 18:00:02,430 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-12 00:00:01,584 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-12 06:00:01,909 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-12 12:00:02,160 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-12 18:00:02,092 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-13 00:00:01,775 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-13 06:00:02,332 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-13 12:00:02,314 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-14 06:00:01,461 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-14 12:00:01,759 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-14 17:53:46,778 INFO /usr/local/bin/bench start
+2023-08-14 17:53:47,424 INFO /usr/local/bin/bench schedule
+2023-08-14 17:53:47,464 INFO /usr/local/bin/bench watch
+2023-08-14 17:53:47,492 INFO /usr/local/bin/bench serve --port 8000
+2023-08-14 17:53:47,580 INFO /usr/local/bin/bench worker
+2023-08-14 18:00:02,008 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-14 20:26:47,394 INFO /usr/local/bin/bench new-app library_management
+2023-08-14 20:26:47,408 LOG creating new app library_management
+2023-08-14 20:28:52,317 LOG Installing library_management
+2023-08-14 20:28:52,322 DEBUG cd /home/fuser/frappe-bench && /home/fuser/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/fuser/frappe-bench/apps/library_management 
+2023-08-14 20:28:56,488 DEBUG bench build --app library_management
+2023-08-14 20:28:56,966 INFO /usr/local/bin/bench build --app library_management
+2023-08-14 20:29:09,735 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-08-14 20:29:10,744 INFO A newer version of bench is available: 5.16.4 → 5.17.0
+2023-08-14 20:32:47,703 INFO /usr/local/bin/bench config dns_multitenant on
+2023-08-14 20:32:48,368 INFO A newer version of bench is available: 5.16.4 → 5.17.0
+2023-08-14 20:34:46,541 INFO /usr/local/bin/bench config dns_multitenant off
+2023-08-14 20:34:47,078 INFO A newer version of bench is available: 5.16.4 → 5.17.0
+2023-08-14 20:35:55,005 INFO /usr/local/bin/bench --site site.localhost install-app library_management
+2023-08-14 20:37:15,312 INFO /usr/local/bin/bench start
+2023-08-14 20:37:16,021 INFO /usr/local/bin/bench worker
+2023-08-14 20:37:16,089 INFO /usr/local/bin/bench schedule
+2023-08-14 20:37:16,110 INFO /usr/local/bin/bench serve --port 8000
+2023-08-14 20:37:16,117 INFO /usr/local/bin/bench watch
+2023-08-14 21:02:26,557 INFO /usr/local/bin/bench --site site.localhost clear-cache
+2023-08-15 00:00:02,586 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-15 06:00:02,314 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-15 12:00:02,144 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-15 17:29:51,501 INFO /usr/local/bin/bench start
+2023-08-15 17:29:52,120 INFO /usr/local/bin/bench serve --port 8000
+2023-08-15 17:29:52,171 INFO /usr/local/bin/bench watch
+2023-08-15 17:29:52,176 INFO /usr/local/bin/bench worker
+2023-08-15 17:29:52,199 INFO /usr/local/bin/bench schedule
+2023-08-15 17:37:55,656 INFO /usr/local/bin/bench start
+2023-08-15 17:37:56,314 INFO /usr/local/bin/bench schedule
+2023-08-15 17:37:56,323 INFO /usr/local/bin/bench serve --port 8000
+2023-08-15 17:37:56,350 INFO /usr/local/bin/bench watch
+2023-08-15 17:37:56,401 INFO /usr/local/bin/bench worker
+2023-08-15 18:00:01,932 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-15 18:05:03,714 INFO /usr/local/bin/bench --site site.localhost mariadb
+2023-08-15 18:25:41,653 INFO /usr/local/bin/bench --site site.localhost mariadb
+2023-08-15 18:31:01,692 INFO /usr/local/bin/bench --site site.localhost mariadb
+2023-08-15 21:38:37,297 INFO /usr/local/bin/bench --site site.localhost set-config server_script_enabled true
+2023-08-15 21:38:44,495 INFO /usr/local/bin/bench start
+2023-08-15 21:38:45,136 INFO /usr/local/bin/bench worker
+2023-08-15 21:38:45,175 INFO /usr/local/bin/bench schedule
+2023-08-15 21:38:45,204 INFO /usr/local/bin/bench serve --port 8000
+2023-08-15 21:38:45,257 INFO /usr/local/bin/bench watch
+2023-08-16 00:48:06,634 INFO /usr/local/bin/bench clear-cache
+2023-08-16 06:00:01,957 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-16 12:00:01,588 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-16 18:00:02,080 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-17 00:00:01,814 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-17 06:00:01,392 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-17 12:00:01,626 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-17 18:00:01,888 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-17 23:27:06,818 INFO /usr/local/bin/bench clear-cache
+2023-08-18 00:00:02,579 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-18 06:00:02,134 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-18 12:00:01,402 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-18 18:00:01,416 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-18 21:23:20,924 INFO /usr/local/bin/bench mariadb
+2023-08-18 21:26:45,865 INFO /usr/local/bin/bench --site site.localhost mariadb
+2023-08-19 00:00:01,758 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-19 06:00:02,643 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-19 12:00:01,740 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-19 18:00:01,894 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-20 00:00:02,259 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-20 06:00:01,987 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-20 12:00:02,318 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-20 18:00:02,218 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-21 00:00:01,907 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-21 06:00:01,864 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-21 12:00:01,604 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-21 18:00:02,891 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-22 18:00:02,825 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-23 18:00:02,152 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-24 00:00:02,366 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-24 00:02:05,313 INFO /usr/local/bin/bench start
+2023-08-24 00:02:05,950 INFO /usr/local/bin/bench worker
+2023-08-24 00:02:05,986 INFO /usr/local/bin/bench watch
+2023-08-24 00:02:06,017 INFO /usr/local/bin/bench schedule
+2023-08-24 00:02:06,026 INFO /usr/local/bin/bench serve --port 8000
+2023-08-24 21:07:06,324 INFO /usr/local/bin/bench start
+2023-08-24 21:07:06,956 INFO /usr/local/bin/bench watch
+2023-08-24 21:07:06,974 INFO /usr/local/bin/bench schedule
+2023-08-24 21:07:06,984 INFO /usr/local/bin/bench worker
+2023-08-24 21:07:07,042 INFO /usr/local/bin/bench serve --port 8000
+2023-08-25 00:00:02,469 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-25 06:00:02,338 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-25 12:00:01,499 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-25 18:00:01,976 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-26 00:00:02,298 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-26 06:00:02,323 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-26 12:00:02,261 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-26 18:00:02,370 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-27 00:00:02,470 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-27 06:00:02,744 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-27 12:00:02,018 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-27 18:00:01,702 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-28 00:00:02,623 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-28 18:00:02,426 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-29 12:00:03,690 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-30 00:00:02,055 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-30 06:00:02,303 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-30 12:00:01,467 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-30 18:00:01,798 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-31 00:00:01,871 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-31 06:00:01,653 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-31 12:00:01,924 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-31 18:00:01,907 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-01 00:00:02,430 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-01 06:00:02,154 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-01 12:00:01,621 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-01 18:00:02,799 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-02 00:00:02,536 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-02 06:00:02,222 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-02 12:00:02,264 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-02 18:00:02,296 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-03 00:00:01,641 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-03 06:00:01,565 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-03 12:00:02,018 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-03 18:00:01,514 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-04 00:00:02,190 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-04 18:00:02,207 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-05 00:00:02,534 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-05 18:00:02,117 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-06 18:00:02,057 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-07 00:00:02,118 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-07 18:00:01,710 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-08 00:00:02,317 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-08 12:00:02,205 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-08 18:00:01,777 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-09 00:00:01,788 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-09 06:00:01,989 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-09 12:00:01,280 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-09 18:00:02,375 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-10 00:00:01,426 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-10 06:00:01,991 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-10 12:00:01,527 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-10 18:00:02,160 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-11 00:00:02,394 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-11 06:00:02,023 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-11 12:00:02,224 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-11 18:00:01,803 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-12 00:00:02,581 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-12 06:00:01,886 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-12 12:00:01,530 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-12 18:00:01,503 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-13 00:00:01,628 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-13 06:00:01,898 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-13 12:00:02,334 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-13 18:00:01,754 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-14 00:00:02,107 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-14 06:00:02,055 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-14 12:00:02,155 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-14 18:00:01,833 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-15 00:00:02,297 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-15 06:00:01,908 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-15 12:00:01,757 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-15 18:00:02,408 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-16 00:00:01,593 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-16 18:00:01,470 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-17 00:00:01,995 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-17 06:00:01,724 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-17 12:00:01,377 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-17 18:00:01,320 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-18 00:00:01,459 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-18 06:00:02,041 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-18 12:00:01,566 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-18 18:00:02,219 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-19 00:00:01,474 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-19 06:00:01,490 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-19 12:00:01,344 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-19 18:00:01,724 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-20 00:00:01,856 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-20 06:00:01,426 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-20 12:00:01,401 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-20 18:00:01,291 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-21 00:00:01,856 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-21 06:00:02,531 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-21 12:00:02,131 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-21 18:00:01,824 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-22 00:00:02,707 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-22 06:00:01,795 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-22 12:00:02,602 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-22 18:00:01,719 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-23 00:00:02,336 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-23 06:00:02,358 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-23 12:00:01,742 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-23 18:00:01,905 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-24 00:00:01,798 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-24 06:00:01,568 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-24 12:00:01,527 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-24 18:00:01,616 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-25 00:00:01,438 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-25 06:00:01,538 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-25 12:00:02,104 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-25 18:00:01,640 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-26 00:00:01,934 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-26 06:00:01,919 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-26 12:00:01,884 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-26 18:00:01,645 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-27 00:00:01,785 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-27 06:00:02,083 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-27 12:00:01,441 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-27 18:00:02,078 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-28 00:00:01,750 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-28 06:00:02,102 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-28 12:00:01,284 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-28 18:00:02,273 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-29 00:00:02,200 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-29 06:00:01,855 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-29 12:00:01,702 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-29 18:00:02,077 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-30 00:00:01,705 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-30 06:00:01,720 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-30 12:00:01,883 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-30 18:00:01,992 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-01 00:00:02,112 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-01 18:00:01,447 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-02 00:00:01,663 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-02 06:00:02,553 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-02 12:00:01,679 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-02 18:00:02,114 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-03 00:00:01,478 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-03 06:00:02,031 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-03 12:00:01,458 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-03 18:00:01,932 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-04 00:00:02,032 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-04 18:00:02,297 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-05 00:00:02,223 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-05 06:00:02,114 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-05 12:00:01,941 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-05 18:00:01,473 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-06 06:00:02,251 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-06 12:00:01,433 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-06 18:00:01,494 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-07 00:00:02,078 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-07 06:00:01,315 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-07 12:00:01,919 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-07 18:00:02,000 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-08 00:00:01,617 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-08 06:00:01,815 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-08 12:00:01,526 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-08 18:00:01,658 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-09 00:00:01,533 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-09 06:00:02,066 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-09 12:00:01,986 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-09 18:00:01,783 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-10 00:00:02,358 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-10 06:00:01,783 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-10 12:00:02,193 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-10 18:00:01,518 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-11 00:00:02,808 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-11 18:00:02,506 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-12 00:00:01,764 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-12 06:00:01,988 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-12 12:00:02,171 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-12 18:00:01,771 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-13 00:00:02,253 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-13 06:00:02,349 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-13 12:00:01,452 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-13 18:00:01,814 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-14 00:00:01,744 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-14 06:00:02,051 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-14 12:00:02,169 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-14 18:00:02,611 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-15 00:00:02,612 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-15 06:00:01,790 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-15 12:00:02,604 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-15 18:00:02,173 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-16 00:00:02,281 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-16 06:00:02,057 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-16 12:00:02,088 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-16 18:00:02,436 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-17 18:00:01,663 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-18 00:00:05,294 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-18 06:00:02,370 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-18 12:00:01,563 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-18 18:00:02,594 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-19 00:00:01,966 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-19 06:00:02,356 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-19 12:00:02,354 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-19 18:00:02,781 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-20 00:00:02,140 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-20 06:00:01,768 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-20 12:00:01,964 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-20 18:00:05,605 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-21 00:00:01,788 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-21 06:00:01,821 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-21 12:00:01,796 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-21 18:00:02,128 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-22 00:00:02,045 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-22 06:00:01,936 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-22 12:00:01,849 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-22 18:00:02,903 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-23 00:00:01,858 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-23 06:00:01,893 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-23 12:00:01,987 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-23 18:00:01,521 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-24 00:00:01,292 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-24 06:00:01,796 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-24 12:00:01,297 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-24 18:00:01,976 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-25 00:00:01,943 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-25 06:00:02,308 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-25 12:00:01,437 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-25 18:00:02,026 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-26 00:00:02,389 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-26 16:30:30,100 INFO /usr/local/bin/bench start
+2023-10-26 16:30:30,870 INFO /usr/local/bin/bench schedule
+2023-10-26 16:30:30,872 INFO /usr/local/bin/bench watch
+2023-10-26 16:30:30,890 INFO /usr/local/bin/bench worker
+2023-10-26 16:30:30,901 INFO /usr/local/bin/bench serve --port 8000
+2023-10-26 16:32:21,855 INFO /usr/local/bin/bench build
+2023-10-26 16:34:05,402 INFO /usr/local/bin/bench migrate
+2023-10-26 16:36:35,024 INFO /usr/local/bin/bench clear-cache
+2023-10-26 16:42:44,624 INFO /usr/local/bin/bench new-app medical-billing
+2023-10-26 16:42:44,638 LOG creating new app medical_billing
+2023-10-26 16:43:55,134 LOG Installing medical_billing
+2023-10-26 16:43:55,136 DEBUG cd /home/fuser/frappe-bench && /home/fuser/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/fuser/frappe-bench/apps/medical_billing 
+2023-10-26 16:43:58,483 DEBUG bench build --app medical_billing
+2023-10-26 16:43:58,657 INFO /usr/local/bin/bench build --app medical_billing
+2023-10-26 16:44:02,353 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-10-26 16:44:02,922 INFO A newer version of bench is available: 5.16.4 → 5.18.0
+2023-10-26 16:45:17,757 INFO /usr/local/bin/bench --site site.localhost install-app medical-billing
+2023-10-26 16:46:11,676 INFO /usr/local/bin/bench --site site.localhost install-app medical_billing
+2023-10-26 16:46:27,759 INFO /usr/local/bin/bench migrate
+2023-10-26 16:46:55,314 INFO /usr/local/bin/bench start
+2023-10-26 16:46:55,951 INFO /usr/local/bin/bench worker
+2023-10-26 16:46:55,954 INFO /usr/local/bin/bench schedule
+2023-10-26 16:46:55,967 INFO /usr/local/bin/bench serve --port 8000
+2023-10-26 16:46:56,002 INFO /usr/local/bin/bench watch
+2023-10-26 16:47:03,367 INFO /usr/local/bin/bench migrate
+2023-10-26 18:00:02,362 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-27 00:00:01,912 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-27 06:00:01,497 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-27 12:00:02,168 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-27 18:00:02,393 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-28 00:00:01,868 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-28 06:00:02,517 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-28 12:00:01,595 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-28 18:00:02,143 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-29 00:00:02,857 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-29 06:00:02,318 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-29 12:00:02,162 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-29 18:00:01,777 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-30 00:00:03,708 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-30 06:00:02,490 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-30 12:00:02,417 INFO /usr/local/bin/bench --verbose --site all backup
