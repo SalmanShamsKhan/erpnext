@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/erpnext" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/frappe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/hrms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/library_management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/medical_billing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/payments" vcs="Git" />
+  </component>
+</project>

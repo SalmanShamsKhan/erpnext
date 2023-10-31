@@ -1774,3 +1774,21 @@ Backup Summary for site.localhost at 2023-10-30 11:30:07.968696
 Config  : ./site.localhost/private/backups/20231030_113004-site_localhost-site_config_backup.json 279.0B
 Database: ./site.localhost/private/backups/20231030_113004-site_localhost-database.sql.gz         1.7MiB
 Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231030_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-30 17:30:09.865884
+Config  : ./site.localhost/private/backups/20231030_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231030_173003-site_localhost-database.sql.gz         1.7MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231030_233003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-30 23:30:09.771561
+Config  : ./site.localhost/private/backups/20231030_233003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231030_233003-site_localhost-database.sql.gz         1.7MiB
+Backup for Site site.localhost has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b96fdf2d65f5f92b -p********** _b96fdf2d65f5f92b -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./site.localhost/private/backups/20231031_173003-site_localhost-database.sql.gz
+
+Backup Summary for site.localhost at 2023-10-31 17:30:09.538053
+Config  : ./site.localhost/private/backups/20231031_173003-site_localhost-site_config_backup.json 279.0B
+Database: ./site.localhost/private/backups/20231031_173003-site_localhost-database.sql.gz         1.7MiB
+Backup for Site site.localhost has been successfully completed
